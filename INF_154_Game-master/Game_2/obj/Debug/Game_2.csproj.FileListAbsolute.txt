@@ -1,0 +1,48 @@
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\bin\Debug\Game_2.exe.config
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\bin\Debug\Game_2.exe
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\bin\Debug\Game_2.pdb
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.csprojAssemblyReference.cache
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.Form1.resources
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.Properties.Resources.resources
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.csproj.GenerateResource.cache
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.exe
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.pdb
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.Game.resources
+C:\Users\Nicolaas\source\repos\Game_2\Game_2\obj\Debug\Game_2.Fight.resources
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\bin\Debug\Game_2.exe.config
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\bin\Debug\Game_2.exe
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\bin\Debug\Game_2.pdb
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.csprojAssemblyReference.cache
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.Fight.resources
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.Form1.resources
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.Game.resources
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.Properties.Resources.resources
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.csproj.GenerateResource.cache
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.csproj.CoreCompileInputs.cache
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.exe
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.pdb
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.Wincs.resources
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nicolaas\Documents\INF_154_Game\Game_2\obj\Debug\Game_2.csproj.ResolveComReference.cache
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\bin\Debug\Game_2.exe.config
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Interop.WMPLib.dll
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\AxInterop.WMPLib.dll
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.csproj.ResolveComReference.cache
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.exe
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.pdb
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.csprojResolveAssemblyReference.cache
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.Fight.resources
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.Form1.resources
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.Tutorial.resources
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.Game.resources
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.Properties.Resources.resources
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.Wincs.resources
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\obj\Debug\Game_2.csproj.GenerateResource.Cache
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\bin\Debug\Game_2.exe
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\bin\Debug\Game_2.pdb
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\bin\Debug\Interop.WMPLib.dll
+D:\USER DATA\Desktop\INF_154_Game-master\INF_154_Game-master\Game_2\bin\Debug\AxInterop.WMPLib.dll
